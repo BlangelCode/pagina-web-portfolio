@@ -1,6 +1,6 @@
 # Portafolio Personal
 
-https://blangel-code.github.io/pagina-web-portfolio/
+https://blangelCode.github.io/pagina-web-portfolio/
 
 [![Deploy Flet App to GitHub Pages](https://github.com/BlangelCode/pagina-web-portfolio/actions/workflows/generate-page-html.yml/badge.svg)](https://github.com/BlangelCode/pagina-web-portfolio/actions/workflows/generate-page-html.yml)
 
