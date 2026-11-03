@@ -27,14 +27,14 @@ DEV_SUBTITLE = (
     "arquitectura e integración de bases de datos relacionales con SQL, y desarrollo de videojuegos con Godot."
 )
 
-URL_GITHUB = "https://github.com/Blangel-code"
+URL_GITHUB = "https://github.com/BlangelCode"
 URL_ITCHIO = "https://blangel.itch.io/"
 URL_TWITTER = "https://x.com/BlangelCode"
 EMAIL_CONTACT = "blangel.code@gmail.com"
 
-URL_PROJECT_TODO = "https://github.com/Blangel-code/to-do-list"
+URL_PROJECT_TODO = "https://github.com/BlangelCode/to-do-list"
 URL_PROJECT_GAME = "https://blangel.itch.io/"
-URL_PROJECT_LIBRARY = "https://github.com/Blangel-code/sistema-de-gestion-de-biblioteca"
+URL_PROJECT_LIBRARY = "https://github.com/BlangelCode/sistema-de-gestion-de-biblioteca"
 
 # ==============================================================================
 # RUTAS DE RECURSOS (MATERIALES DISPONIBLES)
