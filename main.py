@@ -253,7 +253,7 @@ def build_portfolio(page: ft.Page) -> None:
                         ),
                         ft.OutlinedButton(
                             "Descargar CV",
-                            url="https://drive.google.com/file/d/1Tm-4IE8M8WO2eed_B1n-uBJ09EbaDazp/view?usp=sharing",
+                            url="https://drive.google.com/file/d/1x5qxrrYMSHKY2qzhuOzkEBTc26IvGcpt/view?usp=sharing",
                             icon=ft.Icons.DOWNLOAD,
                             style=ft.ButtonStyle(shape=ft.RoundedRectangleBorder(radius=14)),
                         ),
